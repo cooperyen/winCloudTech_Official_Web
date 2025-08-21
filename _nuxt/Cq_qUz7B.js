@@ -1,1 +1,0 @@
-import{_ as o,c as s,o as t,M as c}from"./weGZ5Ckw.js";const n={},_={class:"my-40 max-sm:my-20"};function r(e,a){return t(),s("section",_,[c(e.$slots,"default")])}const l=o(n,[["render",r]]);export{l as _};
