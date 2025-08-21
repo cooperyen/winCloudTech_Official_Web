@@ -1,0 +1,1 @@
+@keyframes loop{0%{transform:rotate(0)}to{transform:rotate(1turn)}}.rotate-full{animation:loop 1s linear infinite}
