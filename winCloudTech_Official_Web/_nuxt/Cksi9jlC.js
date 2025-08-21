@@ -1,1 +1,0 @@
-import{e as t,c as s,o as n,M as a,n as c}from"./weGZ5Ckw.js";const d=t({__name:"Button",props:{color:{default:"text-primary"}},setup(e){const o=e;return(r,l)=>(n(),s("button",{class:c([o.color?`text-${o.color} border-${o.color}`:"text-white border-secondary","cursor-pointer border rounded-lg py-2 px-4"])},[a(r.$slots,"default")],2))}});export{d as _};
